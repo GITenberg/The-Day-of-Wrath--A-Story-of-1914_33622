@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1627
     wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33622#The-Day-of-Wrath--A-Story-of-1914
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2010-09-03'
 gutenberg_type: Text
